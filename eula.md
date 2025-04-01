@@ -44,8 +44,8 @@ This Agreement is effective until terminated. The Company may terminate this Agr
 
 ### 9. GOVERNING LAW
 
-This Agreement shall be governed by the laws of the state of [Your State], without regard to its conflict of law principles.
+This Agreement shall be governed by the laws of the state of New York, without regard to its conflict of law principles.
 
 ### 10. CONTACT INFORMATION
 
-If you have any questions about this Agreement, please contact us at [your email address].
+If you have any questions about this Agreement, please contact us at info@p2alchemy.com.

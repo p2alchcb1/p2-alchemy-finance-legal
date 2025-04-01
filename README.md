@@ -11,7 +11,7 @@ These documents are required for the QuickBooks API integration and support mult
 ## Deployment
 
 These documents are deployed using GitHub Pages at the following URL:
-`https://[your-github-username].github.io/p2-alchemy-finance-legal/`
+`https://p2alchcb1.github.io/Atman_Fin/`
 
 ## Structure
 
